@@ -39,7 +39,7 @@ outgoing connections be anonimized, but more is possible.
 
 In a typical situation, this suffices to run behind a Tor proxy:
 
-  ./bitcoin -proxy=127.0.0.1:9050
+  ./borgcoin -proxy=127.0.0.1:9050
 
 
 2. Run a borgcoin hidden server

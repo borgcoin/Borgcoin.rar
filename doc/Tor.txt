@@ -55,7 +55,7 @@ config file):
 The directory can be different of course, but (both) port numbers should be equal to
 your borgcoind's P2P listen port (9335 by default).
 
--externalip=X   You can tell bitcoin about its publicly reachable address using
+-externalip=X   You can tell borgcoin about its publicly reachable address using
                 this option, and this can be a .onion address. Given the above
                 configuration, you can find your onion address in
                 /var/lib/tor/bitcoin-service/hostname. Onion addresses are given

@@ -10,7 +10,7 @@ https://www.torproject.org/docs/faq.html.en#TBBSocksPort for how to properly
 configure Tor.
 
 
-1. Run bitcoin behind a Tor proxy
+1. Run borgcoin behind a Tor proxy
 ---------------------------------
 
 The first step is running Borgcoin behind a Tor proxy. This will already make all

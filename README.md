@@ -1,7 +1,7 @@
 Borgcoin integration/staging tree
 ================================
 
-Copyright (c) 2014 Borgtcoin Developers
+Copyright (c) 2014 Borgcoin Developers
 
 What is Borgcoin?
 ----------------
